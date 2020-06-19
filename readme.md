@@ -1,0 +1,2 @@
+- [Singleton Pattern](src/main/java/designPatterns/singleton/SingletonPatternDemo.java)
+- [MSCPattern Pattern](src/main/java/designPatterns/MVCPattern/MVCPatternDemo.java)
